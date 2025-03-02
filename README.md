@@ -1,4 +1,4 @@
-# DSC680 Project 3
+# Heart Failure Analysis
 
 ## Overview
 This project is part of the DSC680 course and focuses on analyzing clinical records related to heart failure. The project includes data analysis, documentation, and a presentation.
